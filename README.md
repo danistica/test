@@ -28,3 +28,7 @@ To run code:
 (node checkout.js) - verifying that user can fill all required field ( this code is not complete )
 
 
+Additionally
+
+You can find bugs that i reported in Test plan.xlsx document.
+
