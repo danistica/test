@@ -1,20 +1,19 @@
 Prerequisites:
 
-npm
-npm install npm@latest -g
+npm install
 
 
-Installation
+Installation:
 
-Clone the repo
+Clone the repo:
 
 https://github.com/danistica/test.git
 
-Install NPM packages
+Install NPM packages:
 
 npm install
 
-To run code 
+To run code:
 
 (node Search.js) - verifying that search functionality working properly
 
